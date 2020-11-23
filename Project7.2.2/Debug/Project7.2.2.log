@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(44,19): error C2065: 'i': undeclared identifier
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(44,24): error C2059: syntax error: ';'
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(44,26): error C2065: 'i': undeclared identifier
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(44,29): error C2059: syntax error: ')'
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(45,3): error C2146: syntax error: missing ';' before identifier 'S'
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(45,10): error C2065: 'i': undeclared identifier
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(45,21): error C2065: 'i': undeclared identifier
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(44,16): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(63,12): error C2065: 'S': undeclared identifier
+C:\Student\ Tkachenko.Marharyta.IK11\Project7.2.2\Project7.2.2\Source.cpp(66,13): error C2065: 'S': undeclared identifier
